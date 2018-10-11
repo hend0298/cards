@@ -16,7 +16,7 @@ html {
   text-align: center;
 }
 
-.cards li{
+.cards li {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
